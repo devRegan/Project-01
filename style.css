@@ -46,7 +46,7 @@
 .menu {
     width: 811px;
     height: 68px;
-    margin-left: auto;
+    margin-left: 40px;;
     margin-right: 100px;
     background-color:transparent ;
 }
@@ -55,7 +55,6 @@
     display: flex;
     list-style-type: none;
     /*margin-inline: auto;*/
-    margin-left: 40px;
     align-items: center;
 }
 

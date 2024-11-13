@@ -118,3 +118,34 @@ p {
 .phone-image {
     margin-left: 160px;
 }
+
+.hero-section2 {
+    width: auto;
+    height: 600px;
+}
+
+.sub-section1 {
+    width: 50%;
+    height: 600px;
+}
+
+.box1 {
+    width: 720px;
+    height: 328px;
+    display: flex;
+    align-items: center;
+}
+
+.box1 img {
+    background-size: cover;
+}
+
+.box1 p {
+    color: black;
+}
+
+.text-section1 {
+    width: 338px;
+    height: 128px;
+    align-items: center;
+}

@@ -5,7 +5,7 @@
 }
 
 .nav-container {
-    width: 1440px;
+    width: auto;
     height: 88px;
     align-items: center;
     display: flex;
@@ -41,6 +41,7 @@
 .nav-menu {
     width: 351px;
     height: 19px;
+    margin-left: 32px;
 }
 
 .nav-ul {
@@ -59,4 +60,61 @@
 
 .nav-ul li:first-child a {
     color: black;
+}
+
+.nav-menu2 {
+    width: 144px;
+    height: 32px;
+    margin-left: 32px;
+}
+
+.nav-menu2 ul {
+    display: flex;
+}
+
+.nav-menu2 li {
+    list-style-type: none;
+    margin-inline: auto;
+}
+
+.hero-section {
+    width: auto;
+    height: 632px;
+    background-color: #211C24;
+    align-items: center;
+    display: flex;
+}
+
+p {
+    color: white;
+    font-size: 25px;
+    margin-left: 160px;
+}
+
+.hero-section-p {
+    color: white;
+    font-size: 96px;
+}
+
+.hero-section-p span {
+    font-weight: bold;
+}
+
+.hero-section-button {
+    width: 191px;
+    height: 56px;
+    color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-color: white;
+    background-color: #211C24 ;
+    font-size: 16px;
+    margin-left: 160px;
+    margin-top: 24px;
+}
+
+.phone-image {
+    margin-left: 160px;
 }

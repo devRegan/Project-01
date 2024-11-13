@@ -37,3 +37,26 @@
     outline: none;
     font-size: 16px;
 }
+
+.nav-menu {
+    width: 351px;
+    height: 19px;
+}
+
+.nav-ul {
+    display: flex;
+}
+
+.nav-ul li {
+    list-style-type: none;
+    margin-inline: auto;
+}
+
+.nav-ul a {
+    text-decoration: none;
+    color: gray;
+}
+
+.nav-ul li:first-child a {
+    color: black;
+}
